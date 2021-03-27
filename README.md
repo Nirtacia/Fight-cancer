@@ -1,4 +1,4 @@
-# Identifying serious medical conditions
+# Identifying serious medical conditions at an early stage
 
 Final project for the Building AI course
 

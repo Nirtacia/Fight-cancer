@@ -4,24 +4,20 @@ Building AI course project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Identifying medical conditions
+# Identifying serious medical conditions
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Create devices that analyze exhaled breath and facilitate detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+People suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" and seek medical counselling until it is already to late for them to get successful treatment. These people tend to die whay to young. 
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+Measuring the composition of exhaled breath gives us among other things a clue of the condition of our lungs, but what if it also could predict serious illnesses like cancer? 
 
 ## How is it used?
 
@@ -73,6 +69,8 @@ How could your project grow and become something even more? What kind of skills,
 
 
 ## Acknowledgments
+
+Analysis of Exhaled Breath for Disease Detection, https://doi.org/10.1146/annurev-anchem-071213-020043
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission

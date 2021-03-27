@@ -4,12 +4,11 @@ Final project for the Building AI course
 
 ## Summary
 
-Create devices that analyze exhaled breath and facilitate detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
-
+Create devices that analyze exhaled breath which can facilitate detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
 
 ## Background
 
-If you feel ill and need help, you seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" until it is already to late for them to get successful treatment. These people tend to die whay to young. What if there was a way of predicting serious illnesses long before you even feel sick?
+If you feel ill and need help, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" until it is already to late for them to get successful treatment. These people tend to die whay to young. What if there was a way of predicting serious illnesses long before you even feel sick?
 
 ## How is it used?
 

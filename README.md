@@ -4,7 +4,7 @@ Building AI course project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Identifying medical conditions
 
 Final project for the Building AI course
 

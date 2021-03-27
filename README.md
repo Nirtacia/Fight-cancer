@@ -66,6 +66,7 @@ How could your project grow and become something even more? What kind of skills,
 ## Acknowledgments
 
 Analysis of Exhaled Breath for Disease Detection, https://doi.org/10.1146/annurev-anchem-071213-020043
+Dogs Are Teaching Machines to Sniff Out Cancer, https://www.the-scientist.com/news-opinion/dogs-are-teaching-machines-to-sniff-out-cancer-68469
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission

@@ -15,13 +15,13 @@ Create devices that analyze exhaled breath and facilitate detecting medical cond
 
 ## Background
 
-People suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" and seek medical counselling until it is already to late for them to get successful treatment. These people tend to die whay to young. 
-
-Measuring the composition of exhaled breath gives us among other things a clue of the condition of our lungs, but what if it also could predict serious diseases like cancer in an early stage? 
+If you feel ill and need help, you seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" until it is already to late for them to get successful treatment. These people tend to die whay to young. What if there was a way of predicting serious illnesses long before you even feel sick?
 
 ## How is it used?
 
-Devices collect samples of exhaled breath 
+Measuring the composition of exhaled breath gives us among other things a clue of the condition of our lungs, but it can also be used to predict serious diseases in an early stage. 
+
+Therefore, devices that collect samples of exhaled breath are to be installed at different public locations, e.g. at schools, workplaces, stores, hospitals, trains, buses etc. When a person passes by, an exhaled breath sample is taken. At the same time, the person is identified using facial recognition, or when possible: the use of a credit card or an ID card. 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 

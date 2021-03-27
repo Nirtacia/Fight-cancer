@@ -4,15 +4,15 @@ Final project for the Building AI course
 
 ## Summary
 
-Create devices that analyze exhaled breath and thereby helping to detect medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
+Create systems/devices that analyze exhaled breath and thereby detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
 
 ## Background
 
-If you feel really ill and need help, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" until it is already to late for them to get successful treatment. These people tend to die way too young. What if there was a way of predicting serious diseases long before you even suspect that you are ill?
+If you feel really ill and need help, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" or understand that they are ill until it is already to late for them to get successful treatment. These people tend to die way too young. What if there was a way of predicting serious diseases long before you even suspect you have them?
 
 ## How is it used?
 
-Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but it can also be used to predict other serious diseases that we are yet unaware of. Therefore, devices that collect samples of exhaled breath are to be installed at public locations, such as schools, workplaces, stores, hospitals, trains, buses etc. When a person passes by, an exhaled breath sample is taken. At the same time, the person is identified using facial recognition, or when possible: a credit card or an ID card.
+Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases that we are yet unaware of. Therefore, devices that collect samples of exhaled breath are to be installed at public locations, such as schools, workplaces, stores, hospitals, trains, buses etc. When a person passes by, an exhaled breath sample is taken. At the same time, the person is identified using facial recognition, or when possible: a credit card or an ID card.
 
 If the analysis of the exhaled breath sample indicates anything extraordinary, the individual in question is contacted and encouraged to seek medical attention. 
 

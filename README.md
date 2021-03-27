@@ -17,9 +17,11 @@ Create devices that analyze exhaled breath and facilitate detecting medical cond
 
 People suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel "ill" and seek medical counselling until it is already to late for them to get successful treatment. These people tend to die whay to young. 
 
-Measuring the composition of exhaled breath gives us among other things a clue of the condition of our lungs, but what if it also could predict serious illnesses like cancer? 
+Measuring the composition of exhaled breath gives us among other things a clue of the condition of our lungs, but what if it also could predict serious diseases like cancer in an early stage? 
 
 ## How is it used?
+
+Devices collect samples of exhaled breath 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 

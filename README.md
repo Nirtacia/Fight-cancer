@@ -14,21 +14,25 @@ If you feel really ill and need help, you naturally seek medical attention. Howe
 
 Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also at public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. If the analysis of the sample indicates anything alarming, the individual in question is contacted and encouraged to seek medical attention as soon as possible.
 
-When using a smartphone or some other private device, the identification part is not a problem. Your breath can easily be analyzed and the result be presented in an app or a text message. When using public devices however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. However, in public areas where people don´t identify themselves, there will be a need of more advanced techniques, e.g. facial recognition. 
+When using a smartphone or some other private appliance, the identification part is not a problem. Your breath can easily be analyzed and the result be presented in an app or in a text message. When using public devices however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. However, in public areas where people don´t identify themselves, there will be a need of more advanced techniques, e.g. facial recognition. 
 
 ## Data sources and AI methods
 
-
+This system requires data collected from several systems:
 
 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Source of data      | Description |
+| ------------------- | ----------- |
+| Healtcare systems    | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model.|
+| Population register   | To be able to send a notice when people are identified via public devices.        ||
+| Healtcare systems      | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model.        |
+| Population register   | To be able to send a notice when people are identified via public devices.        |
+
+
 
 ## Challenges
 

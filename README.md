@@ -12,9 +12,9 @@ When feeling really unwell, you naturally seek medical attention. However: peopl
 
 ## How is it used?
 
-Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also in public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. If the analysis of the sample indicates anything alarming, the individual in question is contacted and encouraged to seek medical attention as soon as possible.
+Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also in public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. AI analyzes the sample and if the analysis indicates anything alarming, the individual is contacted and encouraged to seek medical attention as soon as possible.
 
-When using a smartphone or some other private appliance, the identification part is not a problem. Your breath can easily be analyzed and the result be presented in an app or as a text message. When using public devices however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. Public areas where people don't identify themselves, identification has do be done using more advanced techniques, e.g. facial recognition. 
+When using a smartphone or some other private appliance, the identification part is not a problem. Your breath can easily be analyzed while you're using your phone and the result can be presented in an app. When using public devices however, there is also the issue of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. In public areas where people don't identify themselves, identification has do be done using more advanced techniques, e.g. facial recognition. 
 
 ## Data sources and AI methods
 
@@ -22,15 +22,15 @@ A full-scale system would require data collected from several systems, amongst o
 
 | Source of data              | Description |
 | ------------------------------ | ----------- |
-| Healtcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model.|
-| Facial recognition   | Facial recognition systems can be used to identify people in public areas. Needs to be connected to the population register. ||
-| Population register   | To be able to send a notice when people are identified via public devices.        |
+| Healtcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model which indicators to react to.|
+| Facial recognition   | Facial recognition systems could be used to identify people in public areas. This requires that images of the population is somehow collected and stored.  ||
+| Population register   | When a person is identified e.g. via facial recognition systems, the population register can be used to find that persons address and send a message by mail or e-mail.       |
 
 ## Challenges
 
-First and foremost, a solution like this certainly raises ethical questions. Monitoring people is not an uncontroversial issue. At what point do the benefits outweigh the loss of privacy?
+First and foremost, a solution like this certainly raises ethical questions. Monitoring people is not an uncontroversial issue. At what point do the benefits outweigh the threat to privacy?
 
-Secondly: even if the solution successfully detects diseases at an early stage, the method is still relying on people taking action based on the outcome of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that our model doesn't deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
+Secondly: even if the solution successfully detects diseases at an early stage, it is still relying on people taking action based on the outcome of the result of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that the model doesn't deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
 
 ## What next?
 

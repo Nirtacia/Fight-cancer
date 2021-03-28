@@ -23,12 +23,12 @@ A full-scale system would require data collected from several systems, amongst o
 | Source of data              | Description |
 | ------------------------------ | ----------- |
 | Healtcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model which indicators to react to.|
-| Facial recognition   | Facial recognition systems could be used to identify people in public areas. This requires that images of the population is somehow collected and stored.  ||
+| Facial recognition   | Facial recognition systems can be used to identify people in public areas. This requires that images of the population is collected and stored.  ||
 | Population register   | When a person is identified e.g. via facial recognition systems, the population register can be used to find that persons address and send a message by mail or e-mail.       |
 
 ## Challenges
 
-First and foremost, a solution like this certainly raises ethical questions. Monitoring people is not an uncontroversial issue. At what point do the benefits outweigh the threat to privacy?
+First and foremost, a solution like this certainly raises ethical questions. Monitoring people is, as we all know, not an uncontroversial issue. At what point do the benefits outweigh the threat to privacy?
 
 Secondly: even if the solution successfully detects diseases at an early stage, it is still relying on people taking action based on the outcome of the result of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that the model doesn't deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
 
@@ -41,11 +41,6 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-Analysis of Exhaled Breath for Disease Detection, https://doi.org/10.1146/annurev-anchem-071213-020043
-Dogs Are Teaching Machines to Sniff Out Cancer, https://www.the-scientist.com/news-opinion/dogs-are-teaching-machines-to-sniff-out-cancer-68469
+* Analysis of Exhaled Breath for Disease Detection, https://doi.org/10.1146/annurev-anchem-071213-020043
+* Dogs Are Teaching Machines to Sniff Out Cancer, https://www.the-scientist.com/news-opinion/dogs-are-teaching-machines-to-sniff-out-cancer-68469
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc

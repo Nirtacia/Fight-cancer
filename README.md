@@ -30,11 +30,17 @@ A full-scale system would require data collected from several systems, amongst o
 
 First and foremost, a solution like this certainly raises ethical questions. Monitoring people is, as we all know, not an uncontroversial issue. At what point do the benefits outweigh the threat to privacy?
 
-Secondly: even if the solution successfully detects diseases at an early stage, it is still relying on people taking action based on the outcome of the result of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that the model doesn't deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
+Secondly: even if the solution successfully detects diseases at an early stage, it is still relying on people taking action based on the outcome of the result of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that the model fails to deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
 
 ## What next?
 
-A first step would be to conduct a feasibility study. 
+A first step would be to conduct a feasibility study:
+* Which diseases are generally detected too late? Would it be possible to detect some of them earlier by using exhaled breath samples?
+* How many people are affected?
+* What ages are affected? Children? Elderly people?
+* How much does the palliative care cost? What is the socio-economic impact of (young?) people dying prematurely?
+
+Hopefully, the feasability study will pinpoint what diseases we can conquer using this technique, what age groups we should prioritize and so on. 
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 

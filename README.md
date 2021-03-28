@@ -4,17 +4,17 @@ Final project for the Building AI course
 
 ## Summary
 
-Create systems/devices that analyze exhaled breath and thereby detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
+Create systems and devices for analyzing exhaled breath and thereby detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
 
 ## Background
 
-If you feel really ill and need help, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel ill or understand that they are sick until it is already to late for them to get successful treatment. These people tend to die way too young. What if there was a way of predicting serious diseases long before you even suspect you have them?
+If you feel really ill and need help, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don´t necessarily feel ill or understand that they are sick until it is already to late for them to get successful treatment. What if there was a way of predicting serious diseases long before you even suspect you have them?
 
 ## How is it used?
 
-Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also at public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. If the analysis of the sample indicates anything alarming, the individual in question needs to be contacted and encouraged to seek medical attention as soon as possible.
+Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also at public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. If the analysis of the sample indicates anything alarming, the individual in question is contacted and encouraged to seek medical attention as soon as possible.
 
-When using a smartphone or some other private device, the identification part is not a problem. Your breath can easily be analyzed and the results presented in an app or a text message. When using public devices, however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card, the problem is solved, but in public areas where people don´t identify themselves, there is a need of more advanced techniques - e.g. facial recognition. 
+When using a smartphone or some other private device, the identification part is not a problem. Your breath can easily be analyzed and the result be presented in an app or a text message. When using public devices however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. However, in public areas where people don´t identify themselves, there will be a need of more advanced techniques, e.g. facial recognition. 
 
 ## Data sources and AI methods
 

@@ -12,11 +12,15 @@ If you feel really ill and need help, you naturally seek medical attention. Howe
 
 ## How is it used?
 
-Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed at public locations, such as schools, workplaces, stores, hospitals, trains, buses etc. When a person passes by, an exhaled breath sample is taken. At the same time, the person is identified using facial recognition, or when possible, e.g. a credit card or an ID card.
+Measuring the composition of exhaled breath gives us a clue of the condition of our lungs, but can also be used to predict other serious diseases, even before we experience any symptoms. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also at public locations such as schools, workplaces, stores, hospitals, trains and buses. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. If the analysis of the sample indicates anything alarming, the individual in question needs to be contacted and encouraged to seek medical attention as soon as possible.
 
-If the analysis of the exhaled breath sample indicates anything alarming, the individual in question is contacted and encouraged to seek medical attention as soon as possible. 
+When using a smartphone or some other private device, the identification part is not a problem. Your breath can easily be analyzed and the results presented in an app or a text message. When using public devices, however, we will also have to solve the problem of identifying people. If the individual uses a credit card or presents an ID card, the problem is solved, but in public areas where people don´t identify themselves, there is a need of more advanced techniques - e.g. facial recognition. 
 
 ## Data sources and AI methods
+
+
+
+
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)

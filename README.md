@@ -8,7 +8,7 @@ Create systems and devices for analyzing exhaled breath and thereby detecting me
 
 ## Background
 
-When feeling really unwell, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don't necessarily feel ill or understand that they are getting ill until it is already to late for them to be treated successfully. What if there was a way of predicting serious diseases months, or perhaps even years, before you even suspect that you're developing such a disease?
+When feeling really unwell, you naturally seek medical attention. However: people suffering from a number of serious medical conditions, e.g. certain forms of cancer, don't necessarily feel ill or understand that they are going to fall ill, until it is already to late for them to be treated successfully. What if there was a way of predicting serious diseases months, or perhaps even years, before you even suspect that you're developing such a disease?
 
 ## How is it used?
 

@@ -8,13 +8,13 @@ Create systems and devices for analysing exhaled breath and thereby detecting me
 
 ## Background
 
-When feeling really unwell, you naturally seek medical attention. However: people suffering from some serious medical conditions, e.g. certain forms of cancer, don't necessarily feel ill or understand that they are going to fall ill, until it is already too late for them to be treated successfully. What if there was a way of predicting serious diseases months, or perhaps even years, before you even suspect you're developing such a disease?
+When feeling really unwell, you naturally seek medical attention. However: people suffering from some serious medical conditions, for example certain forms of cancer, don't necessarily feel ill or understand that they are going to fall ill, until it is already too late for them to be treated successfully. What if there was a way of predicting serious diseases months, or perhaps even years, before you even suspect you're developing such a disease?
 
 ## How is it used?
 
 We already know that measuring and analysing the composition of exhaled breath can give us information of the condition of our lungs (asthma etc.). But it can also be used to predict other serious diseases, even before any symptoms are experienced. Therefore, devices that collect samples of exhaled breath would be installed in smartphones, headsets, smartwatches etc., but also in public areas such as schools, workplaces, stores, hospitals, trains, buses etc. When a person uses his or her smartphone, or passes by one of the public devices, an exhaled breath sample is taken. AI analyses the sample and if the analysis indicates anything alarming, the individual is contacted and encouraged to seek medical attention as soon as possible.
 
-When using a smartphone or some other private appliance, the identification part is not a problem. Your breath can easily be analysed while you're using your phone and the result can be presented in an app. With the use of public devices however, there is also the issue of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample beeing taken, the problem is solved. In public areas where people don't have to identify themselves, identification has do be done using more advanced techniques, e.g. facial recognition. 
+When using a smartphone or some other private appliance, the identification part is not a problem. Your breath can easily be analysed while you're using your phone and the result can be presented in an app. With the use of public devices however, there is also the issue of identifying people. If the individual uses a credit card or presents an ID card in connection with the sample being taken, the problem is solved. In public areas where people don't have to identify themselves, identification has to be done using more advanced techniques, for example facial recognition. 
 
 ## Data sources and AI methods
 
@@ -22,9 +22,9 @@ A full-scale system would require data collected from several systems and databa
 
 | Source of data              | Description |
 | ------------------------------ | ----------- |
-| Healtcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model which indicators to react to. |
+| Healthcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model which indicators to react to. |
 | Facial recognition   | Facial recognition systems can be used to identify people in public areas. This requires that images of the population are collected and stored.  ||
-| Population register   | When a person is identified, e.g. via facial recognition systems, the population register can be used to find that persons address and send a message by mail or e-mail.       |
+| Population register   | When a person is identified, for example via facial recognition systems, the population register can be used to find that persons address and send a message by mail or e-mail.       |
 
 ## Challenges
 
@@ -42,7 +42,7 @@ A first step would be to conduct a feasibility study:
 
 The feasibility study will hopefully pinpoint what specific diseases we can conquer using this technique, what age groups that are most affected and so on. The results of the feasibility study will hence point out the direction for the next step. If the study shows that the effort should be made among young people, it might be sufficient to implement the technique in smartphones and other devices used by youngsters. If, instead, more is to be gained by screening elderly people, maybe devices installed at your local grocery store is a better way to reach out.
 
-## Acknowledgments
+## Acknowledgements
 
 * Analysis of Exhaled Breath for Disease Detection, https://doi.org/10.1146/annurev-anchem-071213-020043
 * Dogs Are Teaching Machines to Sniff Out Cancer, https://www.the-scientist.com/news-opinion/dogs-are-teaching-machines-to-sniff-out-cancer-68469

@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Create systems and devices for analyzing exhaled breath and thereby detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc. 
+Create systems and devices for analyzing exhaled breath and thereby detecting medical conditions at an early stage. The devices are to be installed at workplaces, schools, stores etc.
 
 ## Background
 
@@ -18,19 +18,23 @@ When using a smartphone or some other private appliance, the identification part
 
 ## Data sources and AI methods
 
-The system requires data collected from several systems:
+A full-scale system would require data collected from several systems, amongst others:
 
 | Source of data              | Description |
-| ------------------- | ----------- |
-| Healtcare systems    | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model.|
+| ------------------------------ | ----------- |
+| Healtcare systems         | Breath samples from people diagnosed with serious medical conditions need to be collected and used as training data when teaching the AI model.|
 | Facial recognition   | Facial recognition systems can be used to identify people in public areas. Needs to be connected to the population register. ||
 | Population register   | To be able to send a notice when people are identified via public devices.        |
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+First and foremost, a solution like this certainly raises ethical questions. Monitoring people is not an uncontroversial issue. At what point do the benefits outweigh the loss of privacy?
+
+Secondly: even if the solution successfully detects diseases at an early stage, the method is still relying on people taking action based on the outcome of the screening. If notifications are ignored, people will go untreated. Moreover, it's likely to expect that our model doesn't deliever results with one hundred percent certainty, which would mean that individuals at risk of developing a serious disease still won't be alerted in time. 
 
 ## What next?
+
+A first step would be to conduct a feasibility study. 
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
